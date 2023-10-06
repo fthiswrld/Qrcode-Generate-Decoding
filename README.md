@@ -1,6 +1,5 @@
 # Qrcode-Generate-Decoding
 The program creates qr codes and decodes any qrcode!
-We need to install requirements:
+We need to install requirements and start the main.py:
 1) pip install -r requirements.txt
-Next step just start the main.py:
 2) python main.py
